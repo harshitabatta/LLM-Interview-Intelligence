@@ -94,10 +94,6 @@ llm-interview-intelligence/
 
 The `questions.npy` and `answers.npy` files used by the application are not included in this repository due to their file size.
 
-Download both files from the link below and place them in the appropriate project directory before running the application.
-
-- **[Download Dataset Files](YOUR_DOWNLOAD_LINK_HERE)**
-
 | File | Description |
 |---|---|
 | `questions.npy` | Contains interview questions used by the application. |
